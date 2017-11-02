@@ -12,13 +12,15 @@
 * Vous devez améliorer dans un premier temps uniquement le HTML, en ignorant le sytle
 * Vous pouvez d'abord désactiver le style, en dé-linkant votre feuille de style
 * reprenez les éléments en utilisant les balises suivantes:
-  - img : rajoutez votre photo
-  - a : 
-    mettez des liens vers des ressources externes (anciennes entreprises, université, formation, hobbies.. tout est possible)
+  - paragraphes : pour les blocs de texte
+  - images : rajoutez votre photo
+  - liens : 
+    mettez des liens vers des ressources externes (entreprises, université, formation, hobbies.. tout est possible)
     
     faites en sorte que certains liens s'affichent dans un nouvel onglet quand on clique dessus
   - headings: rajoutez des titres structurés
   - b / i / em / strong : ajoutez de l'emphase sur les mots et phrases clés que vous voulez mettre en avant 
+  - listes : utilisez des listes, ordonnées ou non, lorsque c'est nécessaire
   - section : séparez logiquement les différents contenus de votre page
    
 ## Rendre de l'exercice
